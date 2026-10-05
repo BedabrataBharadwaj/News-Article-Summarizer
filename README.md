@@ -1,5 +1,3 @@
-# InternsElite-MinorProject-2
-
 # News Article Summarizer using NLP and TextRank
 
 An NLP-based application that automatically generates concise summaries from lengthy news articles using the TextRank Extractive Summarization algorithm.
